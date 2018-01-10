@@ -1,0 +1,55 @@
+@font-face {
+font-family:montserrat-thin;
+src: url('montserrat/Montserrat-Thin.eot?#iefix') format('embedded-opentype'),
+    url('montserrat/Montserrat-Thin.woff') format('woff'),
+    url('montserrat/Montserrat-Thin.ttf') format('truetype'),
+    url('montserrat/Montserrat-Thin.woff2') format('woff2');
+}
+
+@font-face {
+font-family:montserrat-extralight;
+src: url('montserrat/Montserrat-ExtraLight.eot?#iefix') format('embedded-opentype'),
+    url('montserrat/Montserrat-ExtraLight.woff') format('woff'),
+    url('montserrat/Montserrat-ExtraLight.ttf') format('truetype'),
+    url('montserrat/Montserrat-ExtraLight.woff2') format('woff2');
+}
+
+@font-face {
+font-family:montserrat-light;
+src: url('montserrat/Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+    url('montserrat/Montserrat-Light.woff') format('woff'),
+    url('montserrat/Montserrat-Light.ttf') format('truetype'),
+    url('montserrat/Montserrat-Light.woff2') format('woff2');
+}
+
+@font-face {
+font-family:montserrat-regular;
+src: url('montserrat/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+    url('montserrat/Montserrat-Regular.woff') format('woff'),
+    url('montserrat/Montserrat-Regular.ttf') format('truetype'),
+    url('montserrat/Montserrat-Regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family:montserrat-medium;
+src: url('montserrat/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+    url('montserrat/Montserrat-Medium.woff') format('woff'),
+    url('montserrat/Montserrat-Medium.ttf') format('truetype'),
+    url('montserrat/Montserrat-Medium.woff2') format('woff2');
+}
+
+@font-face {
+font-family:montserrat-semibold;
+src: url('montserrat/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('montserrat/Montserrat-SemiBold.woff') format('woff'),
+    url('montserrat/Montserrat-SemiBold.ttf') format('truetype'),
+    url('montserrat/Montserrat-SemiBold.woff2') format('woff2');
+}
+
+@font-face {
+font-family:montserrat-extrabold;
+src: url('montserrat/Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('montserrat/Montserrat-ExtraBold.woff') format('woff'),
+    url('montserrat/Montserrat-ExtraBold.ttf') format('truetype'),
+    url('montserrat/Montserrat-ExtraBold.woff2') format('woff2');
+}
